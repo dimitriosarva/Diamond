@@ -183,12 +183,6 @@ Benefits:
 
 ---
 
-## 📦 Installation
-
-Clone the repository:
-
-
-
 ---
 
 ## 📊 Results Summary
@@ -208,19 +202,3 @@ Clone the repository:
 * Feature selection
 * Deep learning models
 * Deployment (Streamlit / Flask)
-
----
-
-## 👨‍💻 Author
-
-Your Name
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-⭐ If you found this project helpful, feel free to star the repository!
